@@ -1,2 +1,4 @@
 state/
 config/package.toml
+config/plugins/
+config/flavors/
